@@ -7,9 +7,9 @@
 
 <h2>👩‍💻 Software Development Projects</h2>
 
-- Weather app (HTML, CSS, JS)
-- Covid Questionnaire (Python)
-- Vaccine Rollout Checker GUI (Python) <a href="https://github.com/pauprieto/covid_questionnaire/tree/main">HERE</a>
+- Weather app (HTML, CSS, JS) <a href="">HERE</a>
+- Covid Questionnaire (Python) <a href="https://github.com/pauprieto/covid_questionnaire/tree/main">HERE</a>
+- Vaccine Rollout Checker GUI (Python) <a href="">HERE</a>
 - Simple program converting age from Years to Days <a href="https://github.com/pauprieto/age_converter">HERE</a>
 
 <h2>📖 Education</h2>
