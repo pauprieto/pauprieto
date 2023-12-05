@@ -2,8 +2,8 @@
 
 <h2>💻 Scripting Projects</h2>
 
-- Weather app (HTML, CSS, JS)
-- Covid Questionnaire (Python)
+- Linux Bash script to to clean up common tmp folders using a daily cron job (Bash)
+- Linux Python script to to clean up common tmp folders using a daily cron job (Python)
 
 <h2>👩‍💻 Software Development Projects</h2>
 
