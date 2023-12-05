@@ -10,7 +10,7 @@
 - Weather app (HTML, CSS, JS)
 - Covid Questionnaire (Python)
 - Vaccine Rollout Checker GUI (Python)
-- Simple program converting age from Years to Days <a href="https://github.com/pauprieto/age_converter/blob/main/age_converter.py">HERE</a>
+- Simple program converting age from Years to Days <a href="https://github.com/pauprieto/age_converter">HERE</a>
 
 <h2>📖 Education</h2>
 
