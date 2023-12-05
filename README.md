@@ -9,6 +9,7 @@
 
 - Weather app (HTML, CSS, JS)
 - Covid Questionnaire (Python)
+- Vaccine Rollout Checker GUI (Python)
 
 <h2>📖 Education</h2>
 
