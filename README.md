@@ -9,7 +9,7 @@
 
 - Weather app (HTML, CSS, JS)
 - Covid Questionnaire (Python)
-- Vaccine Rollout Checker GUI (Python)
+- Vaccine Rollout Checker GUI (Python) <a href="https://github.com/pauprieto/covid_questionnaire/tree/main">HERE</a>
 - Simple program converting age from Years to Days <a href="https://github.com/pauprieto/age_converter">HERE</a>
 
 <h2>📖 Education</h2>
