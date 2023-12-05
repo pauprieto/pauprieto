@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paula! <br/><a href="https://github.com/pauprieto">Test Analyst</a>, <a href="https://www.linkedin.com/in/pauprieto/">Cybersecurity</a>, <a href="https://www.youtube.com/c/pauprieto">Programmer</a></h1>
+<h1>Hi, I'm Paula! <br/><a href="https://github.com/pauprieto">Application Support Analyst</a>, <a href="https://www.linkedin.com/in/pauprieto/">Application Tester</a>, <a href="https://www.youtube.com/c/pauprieto">Programmer</a></h1>
 
 <h2>Cybersecutity Projects and Workshops</h2>
 
