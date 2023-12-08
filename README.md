@@ -7,7 +7,8 @@
 
 <h2>👩‍💻 Software Development Projects</h2>
 
-- Simple Responsive Website (HTML, CSS, JavaScript) <a href="https://www.shecodes.io/cohorts/shecodes-online-workshop-33-0/projects/117293">Live Project HERE</a>
+- Simple Responsive Website 1 - Home page (HTML, CSS, JavaScript) <a href="https://www.shecodes.io/cohorts/shecodes-online-workshop-33-0/projects/117293">Live Project HERE</a>
+- Geek Dating Website - Profile page example (HTML, CSS) <a href="">HERE</a>
 - Weather app (HTML, CSS, JavaScript) <a href="">WIP</a>
 - Covid Questionnaire (Python) <a href="https://github.com/pauprieto/covid_questionnaire">HERE</a>
 - Vaccine Rollout Checker GUI (Python) <a href="https://github.com/pauprieto/vaccination_prcentage_calculator_GUI">HERE</a>
