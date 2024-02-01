@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paula! <br/>Application Support Analyst</a>, Application Tester, Programmer</h1>
+<h1>Hi, I'm Paula! <br/>Application Support Analyst</a>, Application Tester, studying Programming and Cyber Security</h1>
 
 <h2>💻 Scripting Projects</h2>
 
