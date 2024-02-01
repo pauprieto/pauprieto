@@ -3,7 +3,6 @@
 <h2>💻 Scripting Projects</h2>
 
 - Linux Bash script to to clean up common tmp folders using a daily cron job (Bash) <a href="https://github.com/pauprieto/bash-script_clear-TMP-files">HERE</a>
-- Linux Python script to to clean up common tmp folders using a daily cron job (Python)
 
 <h2>👩‍💻 Software Development Projects</h2>
 
