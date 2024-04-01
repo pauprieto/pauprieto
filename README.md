@@ -1,8 +1,4 @@
-<h1>Hi, I'm Paula! <br/>Application Support Analyst</a>, Application Tester, studying Programming and Cyber Security</h1>
-
-<h2>💻 Scripting Projects</h2>
-
-- Linux Bash script to to clean up common tmp folders using a daily cron job (Bash) <a href="https://github.com/pauprieto/bash-script_clear-TMP-files">HERE</a>
+<h1>Hi, I'm Paula! <br/>Application Tester and Support Analyst/UAT Lead, studying Programming</h1>
 
 <h2>👩‍💻 Software Development Projects</h2>
 
@@ -14,7 +10,11 @@
 - Simple program converting age from Years to Days <a href="https://github.com/pauprieto/age_converter">Repository</a>
 - Simple program converting Farenheit to Celsius <a href="https://github.com/pauprieto/farenheit_to_celsius_app">Repository</a>
 
+<h2>💻 Scripting Projects</h2>
+
+- Linux Bash script to to clean up common tmp folders using a daily cron job (Bash) <a href="https://github.com/pauprieto/bash-script_clear-TMP-files">HERE</a>
+
 <h2>📖 Education</h2>
 
-- Graduate Diploma in Information Technology
+- Graduate Diploma in Information Technology (completion pending late 2024)
 - Certificate III in Information Technology
