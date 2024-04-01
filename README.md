@@ -5,7 +5,7 @@
 Web Development Projects
 - Weather app (HTML, CSS, JavaScript, AJAX, Axios API) <a href="https://github.com/pauprieto/Weather-App">Repository</a> / <a href="https://pau-weather-app.netlify.app/">Live Project</a>
 - Simple Responsive Website 1 - Home page (HTML, CSS, JavaScript) <a href="https://www.shecodes.io/cohorts/shecodes-online-workshop-33-0/projects/117293">Live Project</a>
-- Dating Website - Profile page example (HTML, CSS, JavaScript) <a href="">Repository</a>
+- Dating Website - Profile page example (HTML, CSS, JavaScript) <a href="">Repository pending</a>
 
 Python Development Projects
 - Covid Questionnaire (Python) <a href="https://github.com/pauprieto/covid_questionnaire">Repository</a>
