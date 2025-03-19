@@ -1,7 +1,7 @@
 <h2>👩‍💻 Software Development Projects</h2>
 
 <h3>Vue3 apps</h3>
-- Cart app (in progress)
+- Shopping Cart app (in progress)
 
 <h3>React and Laravel</h3>
 - Blog application, with authentication, registration, and more
