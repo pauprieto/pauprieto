@@ -17,5 +17,5 @@ Python Development Projects
 
 <h2>📖 Education</h2>
 
-- Graduate Diploma in Information Technology (completion pending late 2024)
+- Graduate Diploma in Information Technology (2024)
 - Certificate III in Information Technology
