@@ -1,5 +1,3 @@
-<h1>Hi, I'm Paula! <br/>Application Tester and Support Analyst/UAT Lead, studying Programming</h1>
-
 <h2>👩‍💻 Software Development Projects</h2>
 
 Web Development Projects
